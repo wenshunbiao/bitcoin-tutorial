@@ -15,5 +15,8 @@ git clone https://github.com/wenshunbiao/bitcoin-tutorial.git
 composer update
 ```
 
-## PHP版源码实现
+## 教程请移步本人博客
+[小温博客](https://brad.9iqu.cn/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/)
+
+## 源码
 - 第一讲：[比特币的私钥、公钥、地址是如何生成的？](address.php)
