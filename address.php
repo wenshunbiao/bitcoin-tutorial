@@ -4,6 +4,10 @@ use Elliptic\EC;
 
 require_once __DIR__ . '/vendor/autoload.php';
 
+/**
+ * 比特币的私钥、公钥、地址是如何生成的？
+ */
+
 $privateKey = 'd4b905ec9fb53484ac8d8355ebee5b20373dbeaf40a0e82c8bb870448d66f942';
 
 $ec = new EC('secp256k1');
