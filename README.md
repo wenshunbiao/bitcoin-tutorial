@@ -25,3 +25,4 @@ composer update
 - 第一讲：[比特币的私钥、公钥、地址是如何生成的？](address.php)
 - 第二讲：[比特币私钥的钱包导入格式：WIF（Wallet Import Format）](wif.php)
 - 第三讲：[比特币的Segwit地址](segwit.php)
+- 第五讲：[比特币的Merkle Tree计算](merkle_tree.php)
