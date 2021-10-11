@@ -2,6 +2,7 @@
     "require": {
         "stephenhill/base58": "^1.1",
         "simplito/elliptic-php": "^1.0",
-        "bitwasp/bech32": "^0.0.1"
+        "bitwasp/bech32": "^0.0.1",
+        "furqansiddiqui/bip39-mnemonic-php": "^0.1.4"
     }
 }

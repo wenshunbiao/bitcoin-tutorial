@@ -12,7 +12,7 @@
 git clone https://github.com/wenshunbiao/bitcoin-tutorial.git
 ```
 ```
-composer update
+composer install
 ```
 
 ## 教程请移步本人博客
@@ -26,3 +26,4 @@ composer update
 - 第二讲：[比特币私钥的钱包导入格式：WIF（Wallet Import Format）](wif.php)
 - 第三讲：[比特币的Segwit地址](segwit.php)
 - 第五讲：[比特币的Merkle Tree计算](merkle_tree.php)
+- 第六讲：[比特币的【HD钱包】BIP39生成助记词](bip39.php)
