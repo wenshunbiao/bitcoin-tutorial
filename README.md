@@ -27,3 +27,7 @@ composer install
 - 第三讲：[比特币的Segwit地址](segwit.php)
 - 第五讲：[比特币的Merkle Tree计算](merkle_tree.php)
 - 第六讲：[比特币的【HD钱包】BIP39生成助记词](bip39.php)
+
+## License
+
+The bitcoin-tutorial is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
